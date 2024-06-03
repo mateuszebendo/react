@@ -1,0 +1,11 @@
+.button {
+    background: linear-gradient(white, gray);
+    color: white;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 0.2rem;
+}
+
+.button:hover {
+    background: linear-gradient(white, orange);
+}
