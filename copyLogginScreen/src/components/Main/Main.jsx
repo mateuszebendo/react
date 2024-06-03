@@ -12,7 +12,8 @@ export default function Main(){
     const [dadosInseridos, setDadosInseridos] = useState(0);
     const usuariosRegistrados = [
         { user: "AlbertoGamer", password: "jonas1212" },
-        { user: "KhezacApelao0909", password: "apelao1212" }
+        { user: "KhezacApelao0909", password: "apelao1212" }, 
+        { user: "PepeGeloAgachado200", password: "aiiNobru01"}
     ];
 
     function lembrarUsuario(){
