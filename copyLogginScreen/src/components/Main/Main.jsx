@@ -2,8 +2,7 @@ import React, { useEffect, useState } from 'react';
 import styles from './Main.module.css';
 import Input from '../Inputs/Input.jsx';
 import Button from '../Button/Button.jsx';
-import Footer from '../Footer/Footer.jsx';
-import Audio from '../Audio/Audio.jsx';
+import Links from '../Links/Links.jsx';
 
 export default function Main(){
     const [user, setUser] = useState("Desconhecido");
@@ -16,20 +15,18 @@ export default function Main(){
         { user: "KhezacApelao0909", password: "apelao1212" }
     ];
 
-
     function lembrarUsuario(){
-        if(check) setCheck(false);
-        else setCheck(true);
+        setCheck(!check);
     }
 
     function entraDados(){
         setDadosInseridos(dadosInseridos+1);
     }
 
-
     useEffect(() => {
+        console.log(check);
         const usuarioEncontrado = usuariosRegistrados.find((usuario) => usuario.user === user && usuario.password === password);
-        if(dadosInseridos > 0 && usuarioEncontrado !== undefined) {
+        if(usuarioEncontrado !== undefined) {
             alert("Usuário logado com sucesso");
             setVerificaUsuario(true);
         } else if(dadosInseridos > 0) {
@@ -51,8 +48,7 @@ export default function Main(){
             <Button name="Entrar" onClick={entraDados}/>
             </div>
             <div  className={styles.linha}></div>
-            <Footer />
-            <Audio />
+            <Links />
         </section>
     );
 }

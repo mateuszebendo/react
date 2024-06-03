@@ -1,0 +1,11 @@
+.footer {
+    color: white;
+    display: flex;
+    bottom: 0;
+    position: fixed;
+}
+
+.logo {
+    width: 8rem;
+    padding-right: 1rem;
+}
