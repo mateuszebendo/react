@@ -41,7 +41,8 @@ Nesse projeto usei como inspiração a antiga tela de Login do League of Legends
 ### Inspiração: 
 [![Print da inspiração][inspiracao1]](/copyLogginScreen/public/inspiracao.jpg)
 [![Print da inspiração][inspiracao2]](/copyLogginScreen/public/inspiracao2.jpg)
-<a href="./copyLogginScreen/">Clique aqui para acessar o prjeto</a>
+
+<a href="./copyLogginScreen/">Clique aqui para acessar o projeto</a>
 
 
 
