@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/copyLogginScreen/public/react.png" alt="Logo" width="80" height="80">
+    <img src="/copyLogginScreen/public/react.png" alt="Logo">
   </a>
 
   <h3 align="center">Projetos de React</h3>
@@ -29,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## 1 - Clone de antiga tela de Login do League of Legends
 
-[![Print da tela][screenshot]](/copyLogginScreen/public/screenshoot.png)
+<img src="/copyLogginScreen/public/screenshoot.png" alt="screenshot do meu projeto">
 
 Nesse projeto usei como inspiração a antiga tela de Login do League of Legends, a refazendo utilizando React. Foram utilizadas ferramentas como useState, useEffect, componentização e props para sua construção.
 
@@ -39,8 +39,8 @@ Nesse projeto usei como inspiração a antiga tela de Login do League of Legends
 - A música de fundo também pode ser ativada ou desativada.
 
 ### Inspiração: 
-[![Print da inspiração][inspiracao1]](/copyLogginScreen/public/inspiracao.jpg)
-[![Print da inspiração][inspiracao2]](/copyLogginScreen/public/inspiracao2.jpg)
+<img src="/copyLogginScreen/public/inspiracao.jpg" alt="Inspiração 1 do projeto">
+<img src="/copyLogginScreen/public/inspiracao2.jpg" alt="Inspiração 1 do projeto">
 
 <a href="./copyLogginScreen/">Clique aqui para acessar o projeto</a>
 
