@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/othneildrew/Best-README-Template" width="200" height="200">
     <img src="/copyLogginScreen/public/react.png" alt="Logo">
   </a>
 
@@ -39,8 +39,7 @@ Nesse projeto usei como inspiração a antiga tela de Login do League of Legends
 - A música de fundo também pode ser ativada ou desativada.
 
 ### Inspiração: 
-<img src="/copyLogginScreen/public/inspiracao.jpg" alt="Inspiração 1 do projeto">
-<img src="/copyLogginScreen/public/inspiracao2.jpg" alt="Inspiração 1 do projeto">
+<img src="/copyLogginScreen/public/inspiracao2.jpg" alt="Inspiração do projeto">
 
 <a href="./copyLogginScreen/">Clique aqui para acessar o projeto</a>
 
