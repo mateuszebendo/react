@@ -4,9 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template" width="200" height="200">
-    <img src="/copyLogginScreen/public/react.png" alt="Logo">
-  </a>
+    <img src="/copyLogginScreen/public/react.png" alt="Logo" width="200" height="200">
 
   <h3 align="center">Projetos de React</h3>
 
