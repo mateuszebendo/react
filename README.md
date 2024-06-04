@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="/copyLogginScreen/public/react.png" alt="Logo" width="400" height="700">
+    <img src="/copyLogginScreen/public/react.png" alt="Logo">
 
   <h3 align="center">Projetos de React</h3>
 
